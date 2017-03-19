@@ -1,0 +1,52 @@
+ 
+ body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #313030;
+	background-color: #027fcf;
+	background-image: url(../images/top-rept.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	margin: 0px;
+}
+
+.main-out
+{
+	background-image : url(../images/trans.png);
+	background-repeat : repeat-y;
+	background-position : center top;
+	width : 100%;
+	float : left;	
+}
+
+.main
+{
+	width : 1000px;
+	margin : 0px auto;
+}
+
+.page
+{
+	width: 1200px;
+	float: left;
+	padding: 42px 0px 0px 20px;
+}
+.header {
+	width: 980px;
+	float: left;
+}
+.top {
+	background-color: #f6f7f7;
+	width: 980px;
+	float: left;
+	padding: 0px 10px 10px 10px;
+}
+
+.header-top
+{
+	background-image: url(../image/header-top.jpg);
+	background-repeat: no-repeat;
+	width: 980px;
+	
+}
+
